@@ -54,7 +54,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/drizzle-supabase-nextjs.git
+git clone https://github.com/egebilge/drizzle-supabase-nextjs.git
 cd drizzle-supabase-nextjs
 ```
 
